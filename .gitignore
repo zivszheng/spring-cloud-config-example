@@ -9,6 +9,7 @@
 # IDE Files #
 *.iml
 .idea/**
+/*.idea
 
 *.classpath
 *.project
